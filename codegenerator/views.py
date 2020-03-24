@@ -17,7 +17,7 @@ def index_view(request):
                 return redirect('generatecode')
             else:
                 enter = username
-                new_enter = enter[:-2]
+                new_enter = enter[:-1]
 
                 first_username = generate_first_string(enter)
                 second_username = generate_second_string(enter)

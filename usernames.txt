@@ -36,3 +36,7 @@ vainweasel123,vainweasel1-N343-W586
 badg,ba-G174-B912
 qwer,qw-R174-R785
 jkm-droid,jkm-dro-K323--763
+vainweasel123,vainweasel1-N172-A650
+maina,mai-I419-A767
+faith,fai-I293-T948
+faith,fait-F278-T614
